@@ -2,6 +2,7 @@
 import React from 'react';
 import './Header.css';
 
+
 const Header = () => {
   return (
     <header className="header">
@@ -16,7 +17,8 @@ const Header = () => {
             <a href="/Home">Home</a>
           </li>
           <li>
-            <a href="/offer">Offer</a>
+            <a href="/Offer">Offer</a>
+
           </li>
           <li>
             <a href="/desktop-deal">Desktop Deal</a>
