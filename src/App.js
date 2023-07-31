@@ -1,6 +1,6 @@
 import './App.css';
-import Header from './Header';
-import Navbar from './Navbar';
+import Header from './Layout/Header';
+import Navbar from './Layout/Navbar';
 import Offer from './offer'; 
 function App() {
   return (
